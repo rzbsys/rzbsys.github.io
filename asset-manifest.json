@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.56733f6b.css",
+    "main.js": "/static/js/main.67c68e3d.js",
+    "static/media/traffic.png": "/static/media/traffic.0b5c2f83f363d5574a93.png",
+    "static/media/dshs.svg": "/static/media/dshs.84ff5ff4f746eb2fcaf97ccb0b1bed80.svg",
+    "static/media/timetable.png": "/static/media/timetable.c02d4e8c89777d58f5b4.png",
+    "static/media/writer.png": "/static/media/writer.5c10d56f436f0eee1a0b.png",
+    "static/media/cafeteria.png": "/static/media/cafeteria.f48cff78d6ff3f76f889.png",
+    "static/media/gbl.png": "/static/media/gbl.3a86b132d859f12c37e2.png",
+    "static/media/myweb.png": "/static/media/myweb.90f2df842d30fcfbb638.png",
+    "service-worker.js": "/service-worker.js",
+    "static/media/news.svg": "/static/media/news.b7d11c98fedf519ba999558bfdf69f26.svg",
+    "static/media/myweb.svg": "/static/media/myweb.33d8909690693b867be4318ac5a794aa.svg",
+    "static/media/scienceday.svg": "/static/media/scienceday.50ee962bfafeb615a44f696ca8b92f45.svg",
+    "static/media/skill2.svg": "/static/media/skill2.98609f73523ba4cbde11058134360691.svg",
+    "static/media/skill1.svg": "/static/media/skill1.d04bdb4a53cdf6612d8746bcc3d18e47.svg",
+    "static/media/python.svg": "/static/media/python.a512cbcfc827c8f37d8ffc18dd5e4b37.svg",
+    "static/media/finder.svg": "/static/media/finder.c26613576c6be7d370d7ce207727728c.svg",
+    "static/media/writer.svg": "/static/media/writer.888f4cdcf44afe87e28ed6a2a5dd1cfb.svg",
+    "static/media/rocket.svg": "/static/media/rocket.91ce3295b3dc79b3540b0241d5f74d4a.svg",
+    "static/media/github.svg": "/static/media/github.89e9ac6c9f00f7af99d938d89fe98cc1.svg",
+    "static/media/arrow.svg": "/static/media/arrow.f262043097bf4343a851b425d6f49b5b.svg",
+    "static/media/js.svg": "/static/media/js.037825fc52421aa4fc1173530aba1b60.svg",
+    "static/media/medal.svg": "/static/media/medal.7bf3019c110155a5d98ad1692386b15a.svg",
+    "static/media/logo.svg": "/static/media/logo.af916dd33a2ae0fdb9aedf6cac39f7b0.svg",
+    "static/media/school.svg": "/static/media/school.8246ba97f8027d5a7e1ecb0743dd9acd.svg",
+    "index.html": "/index.html",
+    "static/media/night.svg": "/static/media/night.a884fe352b91902271c0c21960862d8b.svg",
+    "main.56733f6b.css.map": "/static/css/main.56733f6b.css.map",
+    "main.67c68e3d.js.map": "/static/js/main.67c68e3d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56733f6b.css",
+    "static/js/main.67c68e3d.js"
+  ]
+}
